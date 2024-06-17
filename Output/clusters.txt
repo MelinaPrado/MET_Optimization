@@ -1,0 +1,19 @@
+"Location" "cluster"
+"Bay City" "Bay City" 4
+"Desha County" "Desha County" 3
+"Iowa" "Iowa" 2
+"Lake Arthur" "Lake Arthur" 2
+"Lawrence County" "Lawrence County" 1
+"Mamou" "Mamou" 5
+"Mowata" "Mowata" 5
+"Nutrien Rice Breeding Station" "Nutrien Rice Breeding Station" 4
+"Palmetto" "Palmetto" 1
+"Pine Tree Research Station" "Pine Tree Research Station" 1
+"Rice Research Station" "Rice Research Station" 2
+"Rice Research Station - Late" "Rice Research Station - Late" 5
+"Rice Research Station South" "Rice Research Station South" 5
+"St. Joseph" "St. Joseph" 3
+"UA Northeast Rice Res & Ext Ctr" "UA Northeast Rice Res & Ext Ctr" 1
+"UA Rice Res and Ext Center" "UA Rice Res and Ext Center" 3
+"Winnsboro" "Winnsboro" 3
+"Wintermann Rice Research Station" "Wintermann Rice Research Station" 4
